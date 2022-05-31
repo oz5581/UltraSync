@@ -27,7 +27,7 @@ namespace UltraSync
 
         public override void Initialize()
         {
-            Commands.ChatCommands.Add(new Command("survivalhelper.ultrasync", UltraSync, "ultrasync", "usync")
+            Commands.ChatCommands.Add(new Command("ultrasync.use", UltraSync, "ultrasync", "usync")
             {
                 HelpText = "Syncs tiles, but ultra large"
             });
