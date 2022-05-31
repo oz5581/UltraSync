@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Modified Plugins\UltraSync\UltraSync\bin\Debug\UltraSync.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Modified Plugins\UltraSync\UltraSync\bin\Debug\UltraSync.pdb
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Modified Plugins\UltraSync\UltraSync\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Modified Plugins\UltraSync\UltraSync\bin\Debug\OTAPI.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Modified Plugins\UltraSync\UltraSync\bin\Debug\TerrariaServer.exe
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Modified Plugins\UltraSync\UltraSync\bin\Debug\TShockAPI.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Modified Plugins\UltraSync\UltraSync\bin\Debug\HttpServer.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Modified Plugins\UltraSync\UltraSync\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Modified Plugins\UltraSync\UltraSync\bin\Debug\BCrypt.Net.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Modified Plugins\UltraSync\UltraSync\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Modified Plugins\UltraSync\UltraSync\obj\Debug\UltraSync.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Modified Plugins\UltraSync\UltraSync\obj\Debug\UltraSync.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Modified Plugins\UltraSync\UltraSync\obj\Debug\UltraSync.csproj.CopyComplete
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Modified Plugins\UltraSync\UltraSync\obj\Debug\UltraSync.dll
+C:\Users\User\Desktop\OzzTerraria Survival Server\Plugin References\Modified Plugins\UltraSync\UltraSync\obj\Debug\UltraSync.pdb
